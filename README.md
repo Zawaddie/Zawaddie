@@ -53,12 +53,14 @@ My focus is mainly on maintaining secure and reliable infrastructures while deve
 
 
 
-## 🔰 My Projects Portfolio:
-I have done a number of personal projects (Some are private) while building my career's portfolio.
+## 🔰 My  Portfolio:
+I have done a number of personal projects (Some are private) while growing my skills. 
 
-You can review their documentation [here]()
+This has translated into my portfolio. You can review each documentation [here]()
 
-## 🤝🏻 &nbsp;Connect with Me
+##  &nbsp;
+
+### 🤝🏻 Kindly Let's Connect 
 
 <p align="center">
   <a href="mailto:zeddiezawadi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp
