@@ -19,7 +19,7 @@ My focus is mainly on maintaining secure and reliable infrastructures while deve
 - **OS:** Linux (Kali, Ubuntu), Windows, Windows Server
 - **Cloud:** GCP infrastructure, AWS Infrastructure 
 
-## 🛠 Tech Stack
+## 
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> &nbsp
