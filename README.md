@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Zeddie Kaburu
-Cybersecurity Analyst | Network Engineer | Enterprise Technical Support | Programmer
+Telecommunications Systems | Cybersecurity Operations | Networking | Enterprise Technical Support | Programmer
 
 
 ## 👨🏻‍💻 About Me
