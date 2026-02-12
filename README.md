@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Zeddie Kaburu
-Telecommunications Systems | Cybersecurity Operations | Networking | Enterprise Technical Support | Programmer
+Telecommunications Systems | Cybersecurity Operations | Networking | Enterprise Technical Support | Programming
 
 
 ## 👨🏻‍💻 About Me
