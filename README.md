@@ -4,8 +4,8 @@ Telecommunications Systems | Cybersecurity Operations | Networking | Enterprise 
 
 ## 👨🏻‍💻 About Me
 
-A technology professional with hands-on experience in networking, enterprise technical support, cybersecurity operations, and programming.
-I enjoy troubleshooting complex issues in systems and/or networks and also securing them.
+A technology professional with an Electrical and Telecommunications Engineering background. Has a hands-on experience in networking, enterprise technical support, cybersecurity operations, and programming.
+I enjoy troubleshooting complex issues in enterprise systems and/or networks and also securing them.
 My focus is mainly on maintaining secure and reliable infrastructures while developing tools and scripts that enhance operational efficiency.
 
 ## Skills
